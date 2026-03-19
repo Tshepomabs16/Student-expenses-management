@@ -23,3 +23,14 @@ I built this project to solve a practical student problem by creating a simple s
    git clone https://github.com/Tshepomabs16/Student-expenses-management.git
 2. Open the project in your Java IDE such as NetBeans or IntelliJ
 3. Compile and run the main Java file
+   
+##Learning Outcomes
+
+   Object-oriented programming
+   Java application structure
+   Problem solving through software
+   Building useful real-world student tools
+   
+##Author
+Tshepo Maabane
+Github: https://github.com/Tshepomabs16?utm_source=chatgpt.com
